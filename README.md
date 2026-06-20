@@ -1,5 +1,6 @@
 <div align= "center">
     <img src="https://github.com/boiledSANS/boiledSANS/blob/main/header.png">
+    <h6 color: #808080; font-style: italic;>"make trash garbage code to give a big scare"</h6>
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 연락처 </h2> <br> 
